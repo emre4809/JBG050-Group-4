@@ -1,7 +1,7 @@
 # JBG050---Group-4
 
 The creation of our database can be found in the notebook "Creating_database.ipynb". The notebook first goes over all the files available from the london police.
-Then it adds all the data to the database. 
+Then it adds all the data to the database. The file contains the creation of the most recent table in the database. The other tables are created in the same way. 
 
 The "Plotting_wards.ipynb" file is used to explore the data.
 
