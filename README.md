@@ -15,7 +15,7 @@ can find the test scores that are used in the technical report for the SARIMA mo
 **KDE evaluation.ipynb**: the statistical evaluation for the KDE in the KDE directory.
 This notebook loads the data from the SQL database, then performs the KDE statistical analysis found in the technical report
 
-**data_cleaning.py**: file to perform data cleaning
+**data_cleaning.py**: file to perform data cleaning to explore different approaches to this
 
 ## Other files:
 
