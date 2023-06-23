@@ -16,7 +16,9 @@ The statistical evaluation for the KDE can be found in the notebook "KDE evaluat
 This notebook loads the data from the SQL database, then performs the KDE statistical analysis found in the technical report
 
 
-Other files:
+
+## Other files:
+
 Additional Models (VAR expanded, KDE).ipynb contains a rough exploration of a VAR model and KDE. (Unrelated to technical report)
 
 Comparison Functions VAR-KDE.ipynb contains a rough comparison of the discarded VAR model and KDE. (Unrelated to technical report)
