@@ -18,5 +18,7 @@ This notebook loads the data from the SQL database, then performs the KDE statis
 
 Other files:
 Additional Models (VAR expanded, KDE).ipynb contains a rough exploration of a VAR model and KDE. (Unrelated to technical report)
+
 Comparison Functions VAR-KDE.ipynb contains a rough comparison of the discarded VAR model and KDE. (Unrelated to technical report)
+
 The "Old" folder contains exploration that was discarded or integrated into newer files. (Unrelated to technical report)
